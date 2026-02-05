@@ -101,7 +101,4 @@ We maintain high standards for our codebase and community.
 - [ ] API keys for team management.
 
 ---
-
-<div align="center">
-  Built with ❤️ by the Micro-URL Team.
-</div>
+⭐ If this project helps you, please give it a star!
