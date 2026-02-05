@@ -1,9 +1,9 @@
 <div align="center">
 
 # ⚡ Micro-URL ⚡
-### *The Production-Ready URL Shortener with God-Tier Analytics*
+### *The Production-Ready URL Shortener with Analytics*
 
-[![CI/CD Pipeline](https://github.com/USER_NAME/micro-url/actions/workflows/ci.yml/badge.svg)](https://github.com/USER_NAME/micro-url/actions/workflows/ci.yml)
+[![CI/CD Pipeline](https://github.com/bradmca/micro-url/actions/workflows/ci.yml/badge.svg)](https://github.com/USER_NAME/micro-url/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](CONTRIBUTING.md)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
